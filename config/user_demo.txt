@@ -756,38 +756,7 @@ beIN Sports
 NBA TV
 Golf Channel
 
-🎬电影与剧集,#genre#
-CCTV-6
-东森电影
-东森洋片
-纬来电影
-卫视电影台
-卫视西片台
-星卫电影
-靖天电影
-好莱坞电影台
-HBO
-HBO Family
-HBO Hits
-CINEMAX
-AXN
-美亚电影台
-天映频道
 
-🪁少儿动画,#genre#
-CCTV-14
-金鹰卡通
-嘉佳卡通
-卡酷少儿
-优漫卡通
-哈哈炫动
-东森幼幼
-MOMO亲子台
-YOYO TV
-卡通频道
-Disney Channel
-Nick Jr.
-Nickelodeon
 
 🌍日本频道,#genre#
 NHK综合
@@ -831,3 +800,57 @@ Eurosport
 France 24
 DW
 Al Jazeera
+
+
+
+
+
+
+
+🎬电影频道,#genre#
+CCTV-6
+东森电影
+东森洋片
+纬来电影
+卫视电影台
+卫视西片台
+星卫电影
+靖天电影
+好莱坞电影台
+HBO
+HBO Family
+HBO Hits
+CINEMAX
+AXN
+美亚电影台
+天映频道
+CHC电影
+东阳影视
+哈尔滨影视
+南宁影视
+浙江科教影视
+星卫电影
+好莱坞电影台
+卫视电影台
+纬来电影
+
+
+
+
+🧒少儿频道,#genre#
+CCTV-14
+浙江少儿
+金鹰卡通
+嘉佳卡通
+卡酷少儿
+优漫卡通
+哈哈炫动
+东森幼幼
+MOMO亲子台
+YOYO TV
+卡通频道
+Disney Channel
+Nick Jr.
+Nickelodeon
+
+⏰更新时间,#genre#
