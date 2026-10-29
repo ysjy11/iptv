@@ -24,7 +24,7 @@ CETV-2
 CETV-3
 CETV-4
 
-📡全部卫视,#genre#
+📡卫视频道,#genre#
 湖南卫视
 浙江卫视
 江苏卫视
