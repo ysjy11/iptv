@@ -2,10 +2,64 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+http://kakaxi.indevs.in/iptv.txt
+http://kakaxi.indevs.in/ipv4.txt
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/others.txt
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
+https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt
+https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/doubletree6/tvbox-iptv-subscription/main/cn_all_tvbox_multi.txt
+https://iptv-zb-zy.pages.dev/output/ipv4/result.m3u 
+https://live.zbds.top/tv/iptv6.m3u
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://live.zbds.top/tv/iptv4.m3u
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://live.zhi35.com/epg.xml.gz
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/categories/overseas.m3u
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/categories/hkmotw.m3u
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/categories/radio.m3u
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/categories/tiyu.m3u
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/categories/weishi.m3u
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/categories/cctv.m3u
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/catalog.m3u
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/favorites.txt
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/list.txt
+https://raw.githubusercontent.com/pq0000/iptv-auto/main/output/index.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/yy-niuma/live-tv/main/output/hk_merged.m3u
+https://raw.githubusercontent.com/yy-niuma/live-tv/main/output/all_merged.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://live.yang-1989.eu.org/Live.m3u
+https://github.com/YueChan/Live/blob/main/CUTV.txt
+https://github.com/YueChan/Live/blob/main/Hunan.txt
+https://github.com/YueChan/Live/blob/main/XPTV.json
+https://live.yang-1989.eu.org/Live.m3u
+https://live.fanmingming.cn/m3u8
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u
+https://github.com/qwerttvv/Beijing-IPTV/releases/download/iptv/IPTV-Unicom.m3u
+https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u
+https://beijing-iptv.pages.dev/IPTV-Unicom.m3u
+https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
+https://gcore.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
+https://fastly.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
+https://v4.gh-proxy.org/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 
-
-
-
+# http://kakaxi.indevs.in/ipv6.m3u
+# https://github.com/akiralereal/iptv/blob/main/IPTV.m3u
+# https://github.com/skddyj/iptv/blob/main/IPTV.m3u
+# https://iptv-org.github.io/iptv/index.m3u
+# https://github.com/YueChan/Live/blob/main/GNTV.m3u
+# https://github.com/YueChan/Live/blob/main/IPTV.m3u
+# https://live.fanmingming.cn/tv/m3u/demo.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
