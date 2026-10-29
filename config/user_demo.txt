@@ -47,6 +47,7 @@ CHC影迷电影
 央广购物
 环球购物
 
+
 📚教育频道,#genre#
 CETV-1中国教育1台
 CETV-2中国教育2台
@@ -99,20 +100,6 @@ CETV-4中国教育4台
 延边卫视
 康巴卫视
 安多卫视
-
-☘️北京地方台,#genre#
-北京新闻
-北京文艺
-北京科教
-北京影视
-北京财经
-北京生活
-北京青年
-卡酷少儿
-北京文艺卡酷
-
-
-
 
 
 🌊香港频道,#genre#
@@ -237,7 +224,22 @@ Nick Jr.
 Nickelodeon
 YOYO TV
 
-
+☘️北京地方台,#genre#
+北京新闻
+北京文艺
+北京科教
+北京影视
+北京财经
+北京生活
+北京青年
+卡酷少儿
+北京文艺卡酷
+淘电影
+淘剧场
+淘娱乐
+淘BABY
+淘萌宠
+纪实科教
 
 ☘️上海地方台,#genre#
 上海新闻综合
@@ -564,6 +566,8 @@ YOYO TV
 怀化新闻综合
 娄底新闻综合
 湘西新闻综合
+快乐垂钓
+茶频道
 
 ☘️广东地方台,#genre#
 广东珠江
@@ -778,6 +782,52 @@ YOYO TV
 石河子新闻综合
 兵团卫视
 
+
+
+
+🌍日本频道,#genre#
+NHK综合
+NHK教育
+NHK World
+富士电视台
+日本电视台
+TBS
+朝日电视台
+东京电视台
+BS11
+WOWOW
+Animax
+
+🌍韩国频道,#genre#
+KBS1
+KBS2
+MBC
+SBS
+tvN
+JTBC
+Arirang
+KBS World
+
+🌍欧美国际,#genre#
+CNN
+BBC World News
+Fox News
+Sky News
+CNBC
+Bloomberg
+Discovery
+国家地理
+动物星球
+TLC
+History
+AXN
+HBO
+CINEMAX
+Eurosport
+France 24
+DW
+Al Jazeera
+
 🏀体育频道,#genre#
 CCTV-5
 CCTV-5+
@@ -824,52 +874,19 @@ CHC电影
 卫视电影台
 纬来电影
 
-
-🌍日本频道,#genre#
-NHK综合
-NHK教育
-NHK World
-富士电视台
-日本电视台
-TBS
-朝日电视台
-东京电视台
-BS11
-WOWOW
-Animax
-
-🌍韩国频道,#genre#
-KBS1
-KBS2
-MBC
-SBS
-tvN
-JTBC
-Arirang
-KBS World
-
-🌍欧美国际,#genre#
-CNN
-BBC World News
-Fox News
-Sky News
-CNBC
-Bloomberg
-Discovery
-国家地理
-动物星球
-TLC
-History
-AXN
-HBO
-CINEMAX
-Eurosport
-France 24
-DW
-Al Jazeera
+新闻频道,#genre#
+纪录人文,#genre#
+航拍中国,#genre#
+戏曲综艺,#genre#
+音乐频道,#genre#
+历届春晚,#genre#
+影视轮播,#genre#
+NeWTV频道,#genre#
+直播中国,#genre#
+广播频道,#genre#
 
 
-🧒少儿频道,#genre#
+🧒少儿动漫,#genre#
 CCTV-14
 浙江少儿
 金鹰卡通
