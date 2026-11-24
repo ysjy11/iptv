@@ -8,8 +8,6 @@ https://github.com/akiralereal/iptv/blob/main/IPTV.m3u
 
 https://github.com/skddyj/iptv/blob/main/IPTV.m3u
 
-https://iptv-org.github.io/iptv/index.m3u
-
 https://github.com/YueChan/Live/blob/main/GNTV.m3u
 https://github.com/YueChan/Live/blob/main/IPTV.m3u
 
